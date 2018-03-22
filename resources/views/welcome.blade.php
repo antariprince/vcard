@@ -17,14 +17,14 @@
 
     <!-- CSS
    ================================================== -->
-   <link rel="stylesheet" href="{{ asset('kards/css/base.css') }}">  
-   <link rel="stylesheet" href="{{ asset('kards/css/main.css') }}">
-   <link rel="stylesheet" href="{{ asset('kards/css/vendor.css') }}">     
+   <link rel="stylesheet" href="{{ asset('apps/css/base.css') }}">  
+   <link rel="stylesheet" href="{{ asset('apps/css/main.css') }}">
+   <link rel="stylesheet" href="{{ asset('apps/css/vendor.css') }}">     
 
    <!-- script
    ================================================== -->   
-    <script src=" {{ asset('kards/js/modernizr.js') }}"></script>
-    <script src=" {{ asset('kards/js/pace.min.js') }}"></script>
+    <script src=" {{ asset('apps/js/modernizr.js') }}"></script>
+    <script src=" {{ asset('apps/js/pace.min.js') }}"></script>
 
    <!-- favicons
     ================================================== -->
@@ -43,7 +43,7 @@
             <a class="menu-toggle" href="#"><span>Menu</span></a>
 
             <div class="logo">
-                 <a href="/">KARDS</a>
+                 <a href="/">apps</a>
               </div>              
 
             <nav id="main-nav-wrap">
@@ -111,9 +111,9 @@
 
             <div class="intro-info">
 
-                <img src=" {{ asset('kards/images/profile-pic.jpg') }}" alt="Profile Picture">
+                <img src=" {{ asset('apps/images/profile-pic.jpg') }}" alt="Profile Picture">
 
-                <p class="lead">Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p>
+                <p class="lead">I am a professional back-end developer with 7 year experience in creating websites using frameworks such as wordpress, prestashop and codeigniter. I also have experience managing websites using CPanel. I am proficient in PHP, Javascript, AJAX, Jquery, MySQL. Knowledgable in HTML5, CSS3 and bootstrap. I am a hardworking, smart, fast-learner individual whose willing to accept any work related to my field of expertise.</p>
             </div>              
 
         </div>          
@@ -137,7 +137,7 @@
                 </li>
                 <li>
                     <strong>Job:</strong>
-                    <span>Freelancer, Backend Developer</span>
+                    <span>Back-end Developer</span>
                 </li>
                 <li>
                     <strong>Website:</strong>
@@ -154,29 +154,127 @@
 
         <div class="col-six tab-full">
 
-            <h3>Skills</h3>
+            <h3>Best Qualities</h3>
             <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
 
+            <ul class="info-list">
+                <li>
+                    <strong>Self-motivated</strong>
+                </li>
+                 <li>
+                    <strong>Willingness to learn</strong>
+                </li>
+                 <li>
+                    <strong>Problem-Solving Skills</strong>
+                </li>
+                 <li>
+                    <strong>Honest</strong>
+                </li>
+                 <li>
+                    <strong>Independent</strong>
+                </li>
+
+            </ul> <!-- /info-list -->
+
+        </div>
+
+        
+
+    </div>
+
+    <div class="row about-content">
+
+        <div class="col-six tab-full">
+
+            <h3>Primary Skills</h3>
+            <p>I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.</p>
+
                 <ul class="skill-bars">
+                    <li>
+                    <div class="progress percent90"><span>90%</span></div>
+                    <strong>PHP</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent70"><span>70%</span></div>
+                    <strong>Javascript</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent70"><span>70%</span></div>
+                    <strong>JQuery</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent85"><span>85%</span></div>
+                    <strong>MySql</strong>
+                   </li>
+
                    <li>
                     <div class="progress percent90"><span>90%</span></div>
-                    <strong>HTML5</strong>
+                    <strong>Debugging skills</strong>
                    </li>
                    <li>
                     <div class="progress percent85"><span>85%</span></div>
                     <strong>CSS3</strong>
                    </li>
-                   <li>
-                    <div class="progress percent70"><span>70%</span></div>
-                    <strong>JQuery</strong>
-                   </li>
-                   <li>
-                    <div class="progress percent95"><span>95%</span></div>
-                    <strong>PHP</strong>
-                   </li>
-                   <li>
 
-                    <div class="progress percent75"><span>75%</span></div>
+                    <li>
+                    <div class="progress percent90"><span>90%</span></div>
+                    <strong>Codeigniter</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent75"><span>60%</span></div>
+                    <strong>Wordpress</strong>
+                   </li>
+      
+                </ul> <!-- /skill-bars -->      
+
+        </div>
+
+        <div class="col-six tab-full">
+
+            <h3>Others Skills</h3>
+            <p>I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.</p>
+
+                <ul class="skill-bars">
+                    <li>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Photoshop</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent90"><span>90%</span></div>
+                    <strong>Microsoft Word</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent30"><span>30%</span></div>
+                    <strong>Excel</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Power Point</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent90"><span>90%</span></div>
+                    <strong>Debugging skills</strong>
+                   </li>
+                   <li>
+                    <div class="progress percent85"><span>85%</span></div>
+                    <strong>CSS3</strong>
+                   </li>
+
+                    <li>
+                    <div class="progress percent90"><span>90%</span></div>
+                    <strong>Codeigniter</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent75"><span>60%</span></div>
                     <strong>Wordpress</strong>
                    </li>
       
@@ -226,17 +324,41 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-graduation-cap"></i>
+                        <i class="fa fa-briefcase"></i>
                     </div>
 
                     <div class="timeline-header">
-                        <h3>UI Designer</h3>
-                        <p>July 2015 - Present</p>
+                       
+                        
+                        <h3>Senior Software Engineer</h3>
+                        <p>Jan 2014 - May 2017</p>
+                        <h3>Software Engineer</h3>
+                        <p>Jan 2012 - Dec 2013</p>
+                        <h3>Junior Software Engineer</h3>
+                        <p>July 2011 - Dec 2011</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Awesome Studio</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+                        <h4>Sevenworks Inc.</h4>
+                        <p>Job Description:
+                        <ul>
+                                <li>Writing, maintaining and enhancing program code</li>
+                                <li>Creating, maintaining, and enhancing databases</li>
+                                <li>Testing, debugging, diagnosing and correcting errors and bugs in an application</li>
+                                <li>Managing and working with a small team to ensure that the project specification is met and is delivered in a timely manner</li>
+                                <li>Communicating and coordinating with project managers and clients during the development lifecycle for concerns requiring technical knowledge</li>
+                                <li>Reviewing current system or process and presenting ideas for improvements</li>
+                                <li>Researching and integrating APIs, plugins and extensions</li>
+                                <li>Meeting with clients for consultation, analysis and evaluation of project for technical specifcations and requirements</li>
+                                <li>Researching and identifying technology requirements, proposing process and solutions</li>
+                                <li>Preparing system specifications, flow charts, timeline, scope and limitations</li>
+                                <li>Integrated user-facing elements developed by front-end developers with server side logic</li>
+                                <li>
+                                    Worked closely with Designers, Customer Support and QA to develop suite of web tools for internal and external users
+                                </li>
+                                <li>Worked closely with product managers, editorial and business partners to understand software requirements</li>
+                          </ul>  
+                          </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -244,35 +366,28 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-graduation-cap"></i>
+                        <i class="fa fa-briefcase"></i>
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Front-end Developer</h3>
-                        <p>July 2014 - June 2015</p>
+                        <h3>Junior Developer</h3>
+                        <p>Nov 2009 - April 2011</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>Super Cool Agency</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-                    </div>
-
-                </div> <!-- /timeline-block -->
-
-                <div class="timeline-block">
-
-                    <div class="timeline-ico">
-                        <i class="fa fa-graduation-cap"></i>
-                    </div>
-
-                    <div class="timeline-header">
-                        <h3>Web Designer</h3>
-                        <p>May 2013 - June 2014</p>
-                    </div>
-
-                    <div class="timeline-content">
-                        <h4>Great Designs Studio</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                        <h4>Ivertise Multimedia Designs Corporation</h4>
+                        <p>Job Description:
+                        <ul>
+                                <li>Setup and configuration of the framework and database for new projects</li>
+                                <li>Writing new codes for projects requiring new functions and enhancements</li>
+                                <li>Analysis of client requirement and propose solutions and enhancements</li>
+                                <li>Reviewing client requests and providing man hours estimate for the customization</li>
+                                <li>Maintenance, enhancement and create backup of the website and database</li>
+                                <li>Testing, debugging and troubleshooting the system to ensure the applications perform to specification</li>
+                                <li>Contributed in the development of an internal CMS framework for the company</li>
+                                <li>Creating user manual</li>
+                          </ul>  
+                          </p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -298,53 +413,17 @@
                 <div class="timeline-block">
 
                     <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
+                        <i class="fa fa-graduation-cap"></i>
                     </div>
 
                     <div class="timeline-header">
-                        <h3>Master Degree</h3>
-                        <p>July 2015 - Present</p>
+                        <h3>Bachelor of Science in Information and Communication Technology Management</h3>
+                        <p>May 2005 - April 2009</p>
                     </div>
 
                     <div class="timeline-content">
-                        <h4>University of Life</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
-                    </div>
-
-                </div> <!-- /timeline-block -->
-
-                <div class="timeline-block">
-
-                    <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
-                    </div>
-
-                    <div class="timeline-header">
-                        <h3>Bachelor Degree</h3>
-                        <p>July 2014 - June 2015</p>
-                    </div>
-
-                    <div class="timeline-content">
-                        <h4>State Design University</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-                    </div>
-
-                </div> <!-- /timeline-block -->
-
-                <div class="timeline-block">
-
-                    <div class="timeline-ico">
-                        <i class="fa fa-briefcase"></i>
-                    </div>
-
-                    <div class="timeline-header">
-                        <h3>Bachelor Degree</h3>
-                        <p>May 2013 - June 2014</p>
-                    </div>
-
-                    <div class="timeline-content">
-                        <h4>Design College</h4>
-                        <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+                        <h4>De La Salle University</h4>
+                        <p>De La Salle University is an internationally recognized Catholic university in the Philippines established by the Brothers of the Christian Schools in 1911. Inspired by the charism of St. John Baptist de La Salle, the University community, together and by association, provides quality human and Christian education by teaching minds, touching hearts, and transforming lives.</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
@@ -368,7 +447,7 @@
             <h5>Portfolio</h5>
             <h1>Check Out Some of My Works.</h1>
 
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+            <p class="lead">Due to the non discloruse agreement between my previous employers I am not able to use my previous works as portfolio so I created these simple websites as my sample works.</p>
 
         </div>          
     </div> <!-- /section-intro--> 
@@ -382,7 +461,7 @@
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('kards/images/portfolio/liberty.jpg') }}" alt="Liberty">
+                    <img src=" {{ asset('apps/images/portfolio/liberty.jpg') }}" alt="Liberty">
                       <a href="#modal-01" class="overlay">                                 
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -398,7 +477,7 @@
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('kards/images/portfolio/shutterbug.jpg') }}" alt="Shutterbug">
+                    <img src=" {{ asset('apps/images/portfolio/shutterbug.jpg') }}" alt="Shutterbug">
                     <a href="#modal-02" class="overlay">                                      
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -414,7 +493,7 @@
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('kards/images/portfolio/clouds.jpg') }}"alt="Clouds">
+                    <img src=" {{ asset('apps/images/portfolio/clouds.jpg') }}"alt="Clouds">
                       <a href="#modal-03" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -430,7 +509,7 @@
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('kards/images/portfolio/beetle.jpg') }}" alt="Beetle">
+                    <img src=" {{ asset('apps/images/portfolio/beetle.jpg') }}" alt="Beetle">
                       <a href="#modal-04" class="overlay">                                       
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -446,7 +525,7 @@
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('kards/images/portfolio/lighthouse.jpg') }}" alt="Lighthouse">
+                    <img src=" {{ asset('apps/images/portfolio/lighthouse.jpg') }}" alt="Lighthouse">
                       <a href="#modal-05" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -462,7 +541,7 @@
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('kards/images/portfolio/salad.jpg') }}" alt="Salad">
+                    <img src=" {{ asset('apps/images/portfolio/salad.jpg') }}" alt="Salad">
                       <a href="#modal-06" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -481,7 +560,7 @@
                 <div id="modal-01" class="popup-modal slider mfp-hide"> 
 
                         <div class="media">
-                            <img src=" {{ asset('kards/images/portfolio/modals/m-liberty.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/modals/m-liberty.jpg') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
@@ -501,7 +580,7 @@
                    <div id="modal-02" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('kards/images/portfolio/modals/m-shutterbug.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/modals/m-shutterbug.jpg') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
@@ -521,7 +600,7 @@
                    <div id="modal-03" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('kards/images/portfolio/modals/m-clouds.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/modals/m-clouds.jpg') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
@@ -541,7 +620,7 @@
                    <div id="modal-04" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('kards/images/portfolio/modals/m-beetle.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/modals/m-beetle.jpg') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
@@ -561,7 +640,7 @@
                    <div id="modal-05" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('kards/images/portfolio/modals/m-lighthouse.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/modals/m-lighthouse.jpg') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
@@ -581,7 +660,7 @@
                    <div id="modal-06" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('kards/images/portfolio/modals/m-salad.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/modals/m-salad.jpg') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
@@ -665,9 +744,9 @@
 
                 <div class="service-content">   
 
-                     <h3>Webdesign</h3>
+                     <h3>Web Maintenance</h3>
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p class="desc">Maintain, update, back up and troubleshoot an organization's website; ensure functionality and site responsiveness; evaluate website analytics.
                     </p>
                     
                 </div>               
@@ -682,55 +761,10 @@
 
                     <h3>Web Development</h3>  
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p class="desc">Write well designed, testable, efficient code by using best software development practices. Integrating data from various back-end services and databases. Coordinate with web designers to match visual design intent.
                     </p>
 
                 </div>                            
-
-               </div> <!-- /service -->
-
-               <div class="service">
-
-                <span class="icon"><i class="icon-paint-brush"></i></span>                  
-
-                <div class="service-content">
-
-                    <h3>Branding</h3>
-
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p> 
-
-                </div>                                 
-
-               </div> <!-- /service -->
-
-                <div class="service">
-
-                    <span class="icon"><i class="icon-toggles"></i></span>                
-
-                <div class="service-content">
-
-                    <h3>UI/UX Design</h3>
-
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                    </p> 
-                    
-                </div>                
-
-                </div> <!-- /service -->
-
-               <div class="service">
-
-                <span class="icon"><i class="icon-image"></i></span>                
-
-                <div class="service-content">
-
-                    <h3>Graphics Design</h3>
-
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-                        </p> 
-
-                </div>                 
 
                </div> <!-- /service -->
 
@@ -742,12 +776,14 @@
 
                      <h3>Consultancy</h3>
 
-                    <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                    <p class="desc">Offer advice and expertise to organisations to help them improve their web presence in terms of creating a website or ehnacing an existing website.
                         </p> 
                         
                 </div>                 
 
                </div> <!-- /service -->
+
+                
 
           </div> <!-- /services-list -->
         
@@ -933,23 +969,7 @@
 
     <div class="row contact-info">
 
-        <div class="col-four tab-full">
-
-            <div class="icon">
-                <i class="icon-pin"></i>
-            </div>
-
-            <h5>Where to find me</h5>
-
-            <p>
-            1600 Amphitheatre Parkway<br>
-            Mountain View, CA<br>
-            94043 US
-            </p>
-
-        </div>
-
-        <div class="col-four tab-full collapse">
+        <div class="col-twelve tab-full collapse">
 
             <div class="icon">
                 <i class="icon-mail"></i>
@@ -957,24 +977,7 @@
 
             <h5>Email Me At</h5>
 
-            <p>someone@kardswebsite.com<br>
-                info@kardswebsite.com                
-               </p>
-
-        </div>
-
-        <div class="col-four tab-full">
-
-            <div class="icon">
-                <i class="icon-phone"></i>
-            </div>
-
-            <h5>Call Me At</h5>
-
-            <p>Phone: (+63) 555 1212<br>
-                Mobile: (+63) 555 0100<br>
-                    Fax: (+63) 555 0101
-               </p>
+            <p>me@antariprince.com</p>
 
         </div>
         
@@ -1003,7 +1006,7 @@
 
         <div class="col-six tab-full">
             <div class="copyright">
-                    <span>© Copyright Kards 2016.</span> 
+                    <span>© Copyright apps 2016.</span> 
                     <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>              
                  </div>                       
             </div>
@@ -1021,9 +1024,9 @@
 
    <!-- Java Script
    ================================================== --> 
-   <script src=" {{ asset('kards/js/jquery-2.1.3.min.js') }}"></script>
-   <script src=" {{ asset('kards/js/plugins.js') }}"></script>
-   <script src=" {{ asset('kards/js/main.js') }}"></script>
+   <script src=" {{ asset('apps/js/jquery-2.1.3.min.js') }}"></script>
+   <script src=" {{ asset('apps/js/plugins.js') }}"></script>
+   <script src=" {{ asset('apps/js/main.js') }}"></script>
 
 </body>
 

@@ -113,7 +113,11 @@
 
                 <img src=" {{ asset('apps/images/profile-pic.jpg') }}" alt="Profile Picture">
 
-                <p class="lead">I am a professional back-end developer with 7 year experience in creating websites using frameworks such as wordpress, prestashop and codeigniter. I also have experience managing websites using CPanel. I am proficient in PHP, Javascript, AJAX, Jquery, MySQL. Knowledgable in HTML5, CSS3 and bootstrap. I am a hardworking, smart, fast-learner individual whose willing to accept any work related to my field of expertise.</p>
+                <p class="lead">
+                I am a professional back-end developer with 7 year experience in creating websites. Proficient knowledge of the back-end programming language/framework. I have a good understanding of front-end web technologies like HTML, CSS, and JavaScript and communicate well with front end developers. I am able to manage a hosting environment, including database administration as well as scaling applications to handle load changes. With experience in version control, such as Git
+                </p>
+                 <p class="lead">I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.
+                 </p>
             </div>              
 
         </div>          
@@ -124,7 +128,6 @@
         <div class="col-six tab-full">
 
             <h3>Profile</h3>
-            <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
 
             <ul class="info-list">
                 <li>
@@ -154,9 +157,8 @@
 
         <div class="col-six tab-full">
 
-            <h3>Best Qualities</h3>
-            <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
-
+            <h3>Qualities</h3>
+           
             <ul class="info-list">
                 <li>
                     <strong>Self-motivated</strong>
@@ -215,8 +217,8 @@
                     <strong>Debugging skills</strong>
                    </li>
                    <li>
-                    <div class="progress percent85"><span>85%</span></div>
-                    <strong>CSS3</strong>
+                    <div class="progress percent75"><span>75%</span></div>
+                    <strong>Git</strong>
                    </li>
 
                     <li>
@@ -269,12 +271,12 @@
                    </li>
 
                     <li>
-                    <div class="progress percent90"><span>90%</span></div>
-                    <strong>Codeigniter</strong>
+                    <div class="progress percent90"><span>60%</span></div>
+                    <strong>Laravel</strong>
                    </li>
 
                    <li>
-                    <div class="progress percent75"><span>60%</span></div>
+                    <div class="progress percent75"><span>50%</span></div>
                     <strong>Wordpress</strong>
                    </li>
       
@@ -304,7 +306,7 @@
             <h5>Resume</h5>
             <h1>More of my credentials.</h1>
 
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+            <!-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
 
         </div>          
     </div> <!-- /section-intro--> 
@@ -392,6 +394,30 @@
 
                 </div> <!-- /timeline-block -->
 
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-briefcase"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <h3>Internship</h3>
+                        <p>Sept 2008 - Dec 2008</p>
+                    </div>
+
+                    <div class="timeline-content">
+                        <h4>Novare Technologies</h4>
+                        <p>Job Description:
+                        <ul>
+                                <li>Developed a Bug Tracking Mobile Application (Mobile Mantis) for Blackberry
+devices utilizing both API provided by RIM (research in motion) and already
+existing Web Services by Mantis Connect.</li>
+                          </ul>  
+                          </p>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+
             </div> <!-- /timeline-wrap -->              
 
         </div> <!-- /col-twelve -->
@@ -424,6 +450,55 @@
                     <div class="timeline-content">
                         <h4>De La Salle University</h4>
                         <p>De La Salle University is an internationally recognized Catholic university in the Philippines established by the Brothers of the Christian Schools in 1911. Inspired by the charism of St. John Baptist de La Salle, the University community, together and by association, provides quality human and Christian education by teaching minds, touching hearts, and transforming lives.</p>
+                    </div>
+
+                </div> <!-- /timeline-block -->
+
+            </div> <!-- /timeline-wrap -->              
+
+        </div> <!-- /col-twelve -->
+        
+    </div> <!-- /resume-timeline -->
+
+    <div class="row resume-timeline">
+
+        <div class="col-twelve resume-header">
+
+            <h2>Online Courses</h2>
+
+        </div> <!-- /resume-header -->
+
+        <div class="col-twelve">
+
+            <div class="timeline-wrap">
+
+                <div class="timeline-block">
+
+                    <div class="timeline-ico">
+                        <i class="fa fa-graduation-cap"></i>
+                    </div>
+
+                    <div class="timeline-header">
+                        <h3>Udemy Courses</h3>
+                    </div>
+
+                    <div class="timeline-content">
+                        <h4>Laravel, the Complete Guide with Real World Projects</h4>
+                        <p>This course uses a project based approach for learning. It is also be filled with specific articles to read to clearly understand a concept better, and multiple explanations of all concepts taught. Built number of projects from simple to extra advanced, as listed below.</p>
+                        <ul>
+                                <li>Task APPLICATION</li>
+                                <li>COMPLETE BLOG</li>
+                                <li>COMPLETE FORUM</li>
+                                <li>E-COMMERCE WITH STRIPE</li>
+                          </ul>  
+                    </div>
+
+                    <div class="timeline-content">
+                        <h4>JavaScript, Understanding the Weird Parts</h4>
+                        <p>In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems. You will find clarity in the parts that others, even experienced coders, may find weird, odd, and at times incomprehensible. You'll learn the beauty and deceptive power of this language that is at the forefront of modern software development today.</p>
+                        <p>
+                            This course will cover such advanced concepts as objects and object literals, function expressions, prototypical inheritance, functional programming, scope chains, function constructors (plus new ES6 features), immediately invoked function expressions (IIFEs), call, apply, bind, and more.
+                        </p>
                     </div>
 
                 </div> <!-- /timeline-block -->

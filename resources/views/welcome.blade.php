@@ -54,7 +54,6 @@
                         <li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
                         <li><a class="smoothscroll"  href="#services" title="">Services</a></li>                    
                         <li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>  
-                        <li><a href="styles.html" title="">Style Demo</a></li>              
                     </ul>
                 </nav>          
         </div> <!-- /top-bar --> 
@@ -144,7 +143,7 @@
                 </li>
                 <li>
                     <strong>Website:</strong>
-                    <span>www.vcard.antariprince.com</span>
+                    <span>www.antariprince.com</span>
                 </li>
                 <li>
                     <strong>Email:</strong>
@@ -189,7 +188,6 @@
         <div class="col-six tab-full">
 
             <h3>Primary Skills</h3>
-            <p>I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.</p>
 
                 <ul class="skill-bars">
                     <li>
@@ -227,9 +225,13 @@
                    </li>
 
                    <li>
-                    <div class="progress percent75"><span>60%</span></div>
-                    <strong>Wordpress</strong>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Laravel</strong>
                    </li>
+
+                   
+
+                   
       
                 </ul> <!-- /skill-bars -->      
 
@@ -238,48 +240,49 @@
         <div class="col-six tab-full">
 
             <h3>Others Skills</h3>
-            <p>I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.</p>
 
                 <ul class="skill-bars">
-                    <li>
-                    <div class="progress percent60"><span>60%</span></div>
-                    <strong>Photoshop</strong>
+                    
+
+
+                   <li>
+                    <div class="progress percent50"><span>50%</span></div>
+                    <strong>Wordpress</strong>
                    </li>
 
                    <li>
-                    <div class="progress percent90"><span>90%</span></div>
-                    <strong>Microsoft Word</strong>
+                    <div class="progress percent55"><span>55%</span></div>
+                    <strong>Prestashop</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Bootstrap</strong>
                    </li>
 
                    <li>
                     <div class="progress percent30"><span>30%</span></div>
-                    <strong>Excel</strong>
+                    <strong>AWS</strong>
                    </li>
 
                    <li>
-                    <div class="progress percent60"><span>60%</span></div>
-                    <strong>Power Point</strong>
-                   </li>
-
-                   <li>
-                    <div class="progress percent90"><span>90%</span></div>
-                    <strong>Debugging skills</strong>
+                    <div class="progress percent45"><span>45%</span></div>
+                    <strong>HTML5</strong>
                    </li>
                    <li>
-                    <div class="progress percent85"><span>85%</span></div>
+                    <div class="progress percent40"><span>40%</span></div>
                     <strong>CSS3</strong>
                    </li>
 
-                    <li>
-                    <div class="progress percent90"><span>60%</span></div>
-                    <strong>Laravel</strong>
+                   <li>
+                    <div class="progress percent70"><span>70%</span></div>
+                    <strong>Web Scraping</strong>
                    </li>
 
-                   <li>
-                    <div class="progress percent75"><span>50%</span></div>
-                    <strong>Wordpress</strong>
+                    <li>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Photoshop</strong>
                    </li>
-      
                 </ul> <!-- /skill-bars -->      
 
         </div>
@@ -803,8 +806,8 @@ existing Web Services by Mantis Connect.</li>
 
             <h5>Services</h5>
             <h1>What Can I Do For You?</h1>
-
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+<!-- 
+            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
 
         </div>          
     </div> <!-- /section-intro -->

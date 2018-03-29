@@ -54,7 +54,6 @@
                         <li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
                         <li><a class="smoothscroll"  href="#services" title="">Services</a></li>                    
                         <li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>  
-                        <li><a href="styles.html" title="">Style Demo</a></li>              
                     </ul>
                 </nav>          
         </div> <!-- /top-bar --> 
@@ -89,11 +88,9 @@
     </div> <!-- /intro-content --> 
 
     <ul class="intro-social">        
-         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-behance"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.facebook.com/teejay.hidalgo"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/teejay-hidalgo-79a96955/"><i class="fa fa-linkedin"></i></a></li>
+         <li><a href="https://www.instagram.com/tjaykun"><i class="fa fa-instagram"></i></a></li>
       </ul> <!-- /intro-social -->          
 
    </section> <!-- /intro -->
@@ -144,7 +141,7 @@
                 </li>
                 <li>
                     <strong>Website:</strong>
-                    <span>www.vcard.antariprince.com</span>
+                    <span>www.antariprince.com</span>
                 </li>
                 <li>
                     <strong>Email:</strong>
@@ -189,7 +186,6 @@
         <div class="col-six tab-full">
 
             <h3>Primary Skills</h3>
-            <p>I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.</p>
 
                 <ul class="skill-bars">
                     <li>
@@ -227,9 +223,13 @@
                    </li>
 
                    <li>
-                    <div class="progress percent75"><span>60%</span></div>
-                    <strong>Wordpress</strong>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Laravel</strong>
                    </li>
+
+                   
+
+                   
       
                 </ul> <!-- /skill-bars -->      
 
@@ -238,48 +238,49 @@
         <div class="col-six tab-full">
 
             <h3>Others Skills</h3>
-            <p>I am currently looking for a company where I can continue to grow and learn as a web developer and software engineer. I want to be part of a team where sharing of knowlege and helping each other to grow while working together is encouraged.</p>
 
                 <ul class="skill-bars">
-                    <li>
-                    <div class="progress percent60"><span>60%</span></div>
-                    <strong>Photoshop</strong>
+                    
+
+
+                   <li>
+                    <div class="progress percent50"><span>50%</span></div>
+                    <strong>Wordpress</strong>
                    </li>
 
                    <li>
-                    <div class="progress percent90"><span>90%</span></div>
-                    <strong>Microsoft Word</strong>
+                    <div class="progress percent55"><span>55%</span></div>
+                    <strong>Prestashop</strong>
+                   </li>
+
+                   <li>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Bootstrap</strong>
                    </li>
 
                    <li>
                     <div class="progress percent30"><span>30%</span></div>
-                    <strong>Excel</strong>
+                    <strong>AWS</strong>
                    </li>
 
                    <li>
-                    <div class="progress percent60"><span>60%</span></div>
-                    <strong>Power Point</strong>
-                   </li>
-
-                   <li>
-                    <div class="progress percent90"><span>90%</span></div>
-                    <strong>Debugging skills</strong>
+                    <div class="progress percent45"><span>45%</span></div>
+                    <strong>HTML5</strong>
                    </li>
                    <li>
-                    <div class="progress percent85"><span>85%</span></div>
+                    <div class="progress percent40"><span>40%</span></div>
                     <strong>CSS3</strong>
                    </li>
 
-                    <li>
-                    <div class="progress percent90"><span>60%</span></div>
-                    <strong>Laravel</strong>
+                   <li>
+                    <div class="progress percent70"><span>70%</span></div>
+                    <strong>Web Scraping</strong>
                    </li>
 
-                   <li>
-                    <div class="progress percent75"><span>50%</span></div>
-                    <strong>Wordpress</strong>
+                    <li>
+                    <div class="progress percent60"><span>60%</span></div>
+                    <strong>Photoshop</strong>
                    </li>
-      
                 </ul> <!-- /skill-bars -->      
 
         </div>
@@ -536,29 +537,13 @@ existing Web Services by Mantis Connect.</li>
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/liberty.jpg') }}" alt="Liberty">
-                      <a href="#modal-01" class="overlay">                                 
+                    <img src=" {{ asset('apps/images/portfolio/shop.png') }}" alt="Lighthouse">
+                      <a href="#modal-05" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                       <h3 class="folio-title">Liberty</h3>                             
-                                         <span class="folio-types">
-                                          Graphic Design
-                                       </span>
-                                   </div>                           
-                         </div>                    
-                      </a>
-                   </div>                  
-                    </div> <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                   <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/shutterbug.jpg') }}" alt="Shutterbug">
-                    <a href="#modal-02" class="overlay">                                      
-                         <div class="folio-item-table">
-                            <div class="folio-item-cell">
-                                <h3 class="folio-title">Shutterbug</h3>                             
+                                <h3 class="folio-title">Lighthouse</h3>                             
                                         <span class="folio-types">
-                                          Web Design
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -566,9 +551,9 @@ existing Web Services by Mantis Connect.</li>
                    </div>
                     </div> <!-- /folio-item -->
 
-                <div class="bgrid folio-item">
+                    <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/clouds.jpg') }}"alt="Clouds">
+                    <img src=" {{ asset('apps/images/portfolio/books.png') }}"alt="Clouds">
                       <a href="#modal-03" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -582,9 +567,31 @@ existing Web Services by Mantis Connect.</li>
                    </div>
                     </div> <!-- /folio-item -->
 
-                <div class="bgrid folio-item">
+                    
+
+                
+
+                
+
+                    <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/beetle.jpg') }}" alt="Beetle">
+                    <img src=" {{ asset('apps/images/portfolio/open.png') }}" alt="Shutterbug">
+                    <a href="#modal-02" class="overlay">                                      
+                         <div class="folio-item-table">
+                            <div class="folio-item-cell">
+                                <h3 class="folio-title">Shutterbug</h3>                             
+                                        <span class="folio-types">
+                                          Web Design
+                                      </span>                   
+                                   </div>                           
+                         </div>                    
+                      </a>
+                   </div>
+                    </div> <!-- /folio-item -->
+
+                    <div class="bgrid folio-item">
+                   <div class="item-wrap">
+                    <img src=" {{ asset('apps/images/portfolio/todo.png') }}" alt="Beetle">
                       <a href="#modal-04" class="overlay">                                       
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -600,23 +607,59 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/lighthouse.jpg') }}" alt="Lighthouse">
-                      <a href="#modal-05" class="overlay">                                    
+                    <img src=" {{ asset('apps/images/portfolio/forum.png') }}" alt="Liberty">
+                      <a href="#modal-01" class="overlay">                                 
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Lighthouse</h3>                             
+                                       <h3 class="folio-title">Liberty</h3>                             
+                                         <span class="folio-types">
+                                          Graphic Design
+                                       </span>
+                                   </div>                           
+                         </div>                    
+                      </a>
+                   </div>                  
+                    </div> <!-- /folio-item -->
+
+                    
+
+                
+
+                     <div class="bgrid folio-item">
+                   <div class="item-wrap">
+                    <img src=" {{ asset('apps/images/portfolio/dental.png') }}" alt="Salad">
+                      <a href="#modal-06" class="overlay">
+                         <div class="folio-item-table">
+                            <div class="folio-item-cell">
+                                <h3 class="folio-title">Salad</h3>                              
                                         <span class="folio-types">
-                                          Web Development
+                                          Branding
                                       </span>                   
                                    </div>                           
                          </div>                    
                       </a>
                    </div>
-                    </div> <!-- /folio-item -->
+                    </div> <!-- /folio-item -->   
 
-                <div class="bgrid folio-item">
+                    <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/salad.jpg') }}" alt="Salad">
+                    <img src=" {{ asset('apps/images/portfolio/tribute.png') }}" alt="Salad">
+                      <a href="#modal-06" class="overlay">
+                         <div class="folio-item-table">
+                            <div class="folio-item-cell">
+                                <h3 class="folio-title">Salad</h3>                              
+                                        <span class="folio-types">
+                                          Branding
+                                      </span>                   
+                                   </div>                           
+                         </div>                    
+                      </a>
+                   </div>
+                    </div> <!-- /folio-item -->   
+
+                    <div class="bgrid folio-item">
+                   <div class="item-wrap">
+                    <img src=" {{ asset('apps/images/portfolio/stripe.png') }}" alt="Salad">
                       <a href="#modal-06" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -803,8 +846,8 @@ existing Web Services by Mantis Connect.</li>
 
             <h5>Services</h5>
             <h1>What Can I Do For You?</h1>
-
-            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+<!-- 
+            <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
 
         </div>          
     </div> <!-- /section-intro -->
@@ -1070,11 +1113,9 @@ existing Web Services by Mantis Connect.</li>
             <div class="col-six tab-full pull-right social">
 
                 <ul class="footer-social">        
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                  <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                  <li><a href="https://www.facebook.com/teejay.hidalgo"><i class="fa fa-facebook"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/teejay-hidalgo-79a96955/"><i class="fa fa-linkedin"></i></a></li>
+                  <li><a href="https://www.instagram.com/tjaykun"><i class="fa fa-instagram"></i></a></li>
                </ul> 
                 
           </div>

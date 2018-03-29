@@ -88,11 +88,9 @@
     </div> <!-- /intro-content --> 
 
     <ul class="intro-social">        
-         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-behance"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.facebook.com/teejay.hidalgo"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/teejay-hidalgo-79a96955/"><i class="fa fa-linkedin"></i></a></li>
+         <li><a href="https://www.instagram.com/tjaykun"><i class="fa fa-instagram"></i></a></li>
       </ul> <!-- /intro-social -->          
 
    </section> <!-- /intro -->
@@ -539,29 +537,13 @@ existing Web Services by Mantis Connect.</li>
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/liberty.jpg') }}" alt="Liberty">
-                      <a href="#modal-01" class="overlay">                                 
+                    <img src=" {{ asset('apps/images/portfolio/shop.png') }}" alt="Lighthouse">
+                      <a href="#modal-05" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                       <h3 class="folio-title">Liberty</h3>                             
-                                         <span class="folio-types">
-                                          Graphic Design
-                                       </span>
-                                   </div>                           
-                         </div>                    
-                      </a>
-                   </div>                  
-                    </div> <!-- /folio-item -->
-
-                    <div class="bgrid folio-item">
-                   <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/shutterbug.jpg') }}" alt="Shutterbug">
-                    <a href="#modal-02" class="overlay">                                      
-                         <div class="folio-item-table">
-                            <div class="folio-item-cell">
-                                <h3 class="folio-title">Shutterbug</h3>                             
+                                <h3 class="folio-title">Lighthouse</h3>                             
                                         <span class="folio-types">
-                                          Web Design
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -569,9 +551,9 @@ existing Web Services by Mantis Connect.</li>
                    </div>
                     </div> <!-- /folio-item -->
 
-                <div class="bgrid folio-item">
+                    <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/clouds.jpg') }}"alt="Clouds">
+                    <img src=" {{ asset('apps/images/portfolio/books.png') }}"alt="Clouds">
                       <a href="#modal-03" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -585,9 +567,31 @@ existing Web Services by Mantis Connect.</li>
                    </div>
                     </div> <!-- /folio-item -->
 
-                <div class="bgrid folio-item">
+                    
+
+                
+
+                
+
+                    <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/beetle.jpg') }}" alt="Beetle">
+                    <img src=" {{ asset('apps/images/portfolio/open.png') }}" alt="Shutterbug">
+                    <a href="#modal-02" class="overlay">                                      
+                         <div class="folio-item-table">
+                            <div class="folio-item-cell">
+                                <h3 class="folio-title">Shutterbug</h3>                             
+                                        <span class="folio-types">
+                                          Web Design
+                                      </span>                   
+                                   </div>                           
+                         </div>                    
+                      </a>
+                   </div>
+                    </div> <!-- /folio-item -->
+
+                    <div class="bgrid folio-item">
+                   <div class="item-wrap">
+                    <img src=" {{ asset('apps/images/portfolio/todo.png') }}" alt="Beetle">
                       <a href="#modal-04" class="overlay">                                       
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -603,23 +607,59 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/lighthouse.jpg') }}" alt="Lighthouse">
-                      <a href="#modal-05" class="overlay">                                    
+                    <img src=" {{ asset('apps/images/portfolio/forum.png') }}" alt="Liberty">
+                      <a href="#modal-01" class="overlay">                                 
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Lighthouse</h3>                             
+                                       <h3 class="folio-title">Liberty</h3>                             
+                                         <span class="folio-types">
+                                          Graphic Design
+                                       </span>
+                                   </div>                           
+                         </div>                    
+                      </a>
+                   </div>                  
+                    </div> <!-- /folio-item -->
+
+                    
+
+                
+
+                     <div class="bgrid folio-item">
+                   <div class="item-wrap">
+                    <img src=" {{ asset('apps/images/portfolio/dental.png') }}" alt="Salad">
+                      <a href="#modal-06" class="overlay">
+                         <div class="folio-item-table">
+                            <div class="folio-item-cell">
+                                <h3 class="folio-title">Salad</h3>                              
                                         <span class="folio-types">
-                                          Web Development
+                                          Branding
                                       </span>                   
                                    </div>                           
                          </div>                    
                       </a>
                    </div>
-                    </div> <!-- /folio-item -->
+                    </div> <!-- /folio-item -->   
 
-                <div class="bgrid folio-item">
+                    <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/salad.jpg') }}" alt="Salad">
+                    <img src=" {{ asset('apps/images/portfolio/tribute.png') }}" alt="Salad">
+                      <a href="#modal-06" class="overlay">
+                         <div class="folio-item-table">
+                            <div class="folio-item-cell">
+                                <h3 class="folio-title">Salad</h3>                              
+                                        <span class="folio-types">
+                                          Branding
+                                      </span>                   
+                                   </div>                           
+                         </div>                    
+                      </a>
+                   </div>
+                    </div> <!-- /folio-item -->   
+
+                    <div class="bgrid folio-item">
+                   <div class="item-wrap">
+                    <img src=" {{ asset('apps/images/portfolio/stripe.png') }}" alt="Salad">
                       <a href="#modal-06" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -1073,11 +1113,9 @@ existing Web Services by Mantis Connect.</li>
             <div class="col-six tab-full pull-right social">
 
                 <ul class="footer-social">        
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                  <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                  <li><a href="https://www.facebook.com/teejay.hidalgo"><i class="fa fa-facebook"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/teejay-hidalgo-79a96955/"><i class="fa fa-linkedin"></i></a></li>
+                  <li><a href="https://www.instagram.com/tjaykun"><i class="fa fa-instagram"></i></a></li>
                </ul> 
                 
           </div>

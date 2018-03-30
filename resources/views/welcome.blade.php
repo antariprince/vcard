@@ -537,7 +537,7 @@ existing Web Services by Mantis Connect.</li>
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/shop.png') }}" alt="Prestashop">
+                    <img src=" {{ asset('apps/images/portfolio/mockup.png') }}" alt="Prestashop">
                       <a href="#modal-01" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -553,7 +553,7 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/books.png') }}"alt="Codeigniter">
+                    <img src=" {{ asset('apps/images/portfolio/mockup2.png') }}"alt="Codeigniter">
                       <a href="#modal-02" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -575,7 +575,7 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/open.png') }}" alt="Shutterbug">
+                    <img src=" {{ asset('apps/images/portfolio/mockup3.png') }}" alt="Shutterbug">
                     <a href="#modal-03" class="overlay">                                      
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -591,7 +591,7 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/todo.png') }}" alt="Laravel">
+                    <img src=" {{ asset('apps/images/portfolio/mockup4.png') }}" alt="Laravel">
                       <a href="#modal-04" class="overlay">                                       
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -607,7 +607,7 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/forum.png') }}" alt="Laravel">
+                    <img src=" {{ asset('apps/images/portfolio/mockup5.png') }}" alt="Laravel">
                       <a href="#modal-05" class="overlay">                                 
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -627,7 +627,7 @@ existing Web Services by Mantis Connect.</li>
 
                      <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/dental.png') }}" alt="Wordpress">
+                    <img src=" {{ asset('apps/images/portfolio/mockup6.png') }}" alt="Wordpress">
                       <a href="#modal-06" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -643,7 +643,7 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/tribute.png') }}" alt="Laravel - Sample">
+                    <img src=" {{ asset('apps/images/portfolio/mockup7.png') }}" alt="Laravel - Sample">
                       <a href="#modal-07" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
@@ -659,7 +659,7 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/stripe.png') }}" alt="Laravel - Sample">
+                    <img src=" {{ asset('apps/images/portfolio/mockup8.png') }}" alt="Laravel - Sample">
                       <a href="#modal-08" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">

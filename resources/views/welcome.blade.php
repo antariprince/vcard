@@ -537,11 +537,11 @@ existing Web Services by Mantis Connect.</li>
 
                 <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/shop.png') }}" alt="Lighthouse">
-                      <a href="#modal-05" class="overlay">                                    
+                    <img src=" {{ asset('apps/images/portfolio/shop.png') }}" alt="Prestashop">
+                      <a href="#modal-01" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Lighthouse</h3>                             
+                                <h3 class="folio-title">Prestashop - Sample</h3>                             
                                         <span class="folio-types">
                                           Web Development
                                       </span>                   
@@ -553,13 +553,13 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/books.png') }}"alt="Clouds">
-                      <a href="#modal-03" class="overlay">                                    
+                    <img src=" {{ asset('apps/images/portfolio/books.png') }}"alt="Codeigniter">
+                      <a href="#modal-02" class="overlay">                                    
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Clouds</h3>                             
+                                <h3 class="folio-title">Codeigniter - Sample</h3>                             
                                         <span class="folio-types">
-                                          Web Design
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -576,12 +576,12 @@ existing Web Services by Mantis Connect.</li>
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
                     <img src=" {{ asset('apps/images/portfolio/open.png') }}" alt="Shutterbug">
-                    <a href="#modal-02" class="overlay">                                      
+                    <a href="#modal-03" class="overlay">                                      
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Shutterbug</h3>                             
+                                <h3 class="folio-title">Landing Page</h3>                             
                                         <span class="folio-types">
-                                          Web Design
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -591,13 +591,13 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/todo.png') }}" alt="Beetle">
+                    <img src=" {{ asset('apps/images/portfolio/todo.png') }}" alt="Laravel">
                       <a href="#modal-04" class="overlay">                                       
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Beetle</h3>                             
+                                <h3 class="folio-title">Laravel - Sample</h3>                             
                                         <span class="folio-types">
-                                          Branding
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -607,13 +607,13 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/forum.png') }}" alt="Liberty">
-                      <a href="#modal-01" class="overlay">                                 
+                    <img src=" {{ asset('apps/images/portfolio/forum.png') }}" alt="Laravel">
+                      <a href="#modal-05" class="overlay">                                 
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                       <h3 class="folio-title">Liberty</h3>                             
+                                       <h3 class="folio-title">Laravel - Sample</h3>                             
                                          <span class="folio-types">
-                                          Graphic Design
+                                          Web Development
                                        </span>
                                    </div>                           
                          </div>                    
@@ -627,13 +627,13 @@ existing Web Services by Mantis Connect.</li>
 
                      <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/dental.png') }}" alt="Salad">
+                    <img src=" {{ asset('apps/images/portfolio/dental.png') }}" alt="Wordpress">
                       <a href="#modal-06" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Salad</h3>                              
+                                <h3 class="folio-title">Wordpress - Sample</h3>                              
                                         <span class="folio-types">
-                                          Branding
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -643,13 +643,13 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/tribute.png') }}" alt="Salad">
-                      <a href="#modal-06" class="overlay">
+                    <img src=" {{ asset('apps/images/portfolio/tribute.png') }}" alt="Laravel - Sample">
+                      <a href="#modal-07" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Salad</h3>                              
+                                <h3 class="folio-title">Laravel - Sample</h3>                              
                                         <span class="folio-types">
-                                          Branding
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -659,13 +659,13 @@ existing Web Services by Mantis Connect.</li>
 
                     <div class="bgrid folio-item">
                    <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/stripe.png') }}" alt="Salad">
-                      <a href="#modal-06" class="overlay">
+                    <img src=" {{ asset('apps/images/portfolio/stripe.png') }}" alt="Laravel - Sample">
+                      <a href="#modal-08" class="overlay">
                          <div class="folio-item-table">
                             <div class="folio-item-cell">
-                                <h3 class="folio-title">Salad</h3>                              
+                                <h3 class="folio-title">Tribute Page</h3>                              
                                         <span class="folio-types">
-                                          Branding
+                                          Web Development
                                       </span>                   
                                    </div>                           
                          </div>                    
@@ -678,18 +678,18 @@ existing Web Services by Mantis Connect.</li>
                 <div id="modal-01" class="popup-modal slider mfp-hide"> 
 
                         <div class="media">
-                            <img src=" {{ asset('apps/images/portfolio/modals/m-liberty.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/_shop.png') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
-                          <h4>Liberty</h4>            
-                          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                          <h4>Prestashop</h4>            
+                          <p>Basicl installation and setup.</p>
 
                           <div class="categories">Web Development</div>                        
                        </div>
 
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://shop.antariprince.com">Details</a>
                           <a href="#" class="popup-modal-dismiss">Close</a>
                      </div>           
 
@@ -698,18 +698,18 @@ existing Web Services by Mantis Connect.</li>
                    <div id="modal-02" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('apps/images/portfolio/modals/m-shutterbug.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/_books.png') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
-                          <h4>Shutterbug</h4>             
-                          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                          <h4>Codeigniter - Sample</h4>             
+                          <p>Built with codeigniter, Web Scraping, Disqus, Web 2.0.</p>
 
-                          <div class="categories">Web Design</div>                         
+                          <div class="categories">Web Development</div>                         
                        </div>
 
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://booksforcast.com">Details</a>
                           <a href="#" class="popup-modal-dismiss">Close</a>
                      </div>           
 
@@ -718,18 +718,18 @@ existing Web Services by Mantis Connect.</li>
                    <div id="modal-03" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('apps/images/portfolio/modals/m-clouds.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/_open.png') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
-                          <h4>Clouds</h4>             
-                          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                          <h4>Landing Page</h4>             
+                          <p>Built with Laravel, Google Maps API, Mailchimp, Facebook login</p>
 
-                          <div class="categories">Web Design</div>                         
+                          <div class="categories">Web Development</div>                         
                        </div>
 
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://openhouse.antariprince.com/">Details</a>
                           <a href="#" class="popup-modal-dismiss">Close</a>
                      </div>           
 
@@ -738,18 +738,18 @@ existing Web Services by Mantis Connect.</li>
                    <div id="modal-04" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('apps/images/portfolio/modals/m-beetle.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/_todos.png') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
-                          <h4>Beetle</h4>             
-                          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                          <h4>Simple Todos App</h4>             
+                          <p>Built with Laravel, simple add, edit, delete.</p>
 
-                          <div class="categories">Branding</div>                           
+                          <div class="categories">Web Development</div>                           
                        </div>
 
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://todos.antariprince.com">Details</a>
                           <a href="#" class="popup-modal-dismiss">Close</a>
                      </div>           
 
@@ -758,18 +758,18 @@ existing Web Services by Mantis Connect.</li>
                    <div id="modal-05" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('apps/images/portfolio/modals/m-lighthouse.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/_forum.png') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
-                          <h4>Lighthouse</h4>             
-                          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                          <h4>Simple Forum Page</h4>             
+                          <p>Built with Laravel, Github Login API, Authentication.</p>
 
                           <div class="categories">Web Development</div>                        
                        </div>
 
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://forum.antariprince.com">Details</a>
                           <a href="#" class="popup-modal-dismiss">Close</a>
                      </div>           
 
@@ -778,18 +778,58 @@ existing Web Services by Mantis Connect.</li>
                    <div id="modal-06" class="popup-modal slider mfp-hide">  
 
                         <div class="media">
-                            <img src=" {{ asset('apps/images/portfolio/modals/m-salad.jpg') }}" alt="" />
+                            <img src=" {{ asset('apps/images/portfolio/_dental.png') }}" alt="" />
                         </div>          
 
                        <div class="description-box">
-                          <h4>Salad</h4>              
-                          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                          <h4>Dental Website</h4>              
+                          <p>Built with wordpress with basic installation and setup.</p>
 
-                          <div class="categories">Branding</div>                           
+                          <div class="categories">Web Development</div>                           
                        </div>
 
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="https://jdc.booksforcast.com">Details</a>
+                          <a href="#" class="popup-modal-dismiss">Close</a>
+                     </div>           
+
+                   </div> <!-- /modal-06 -->
+
+                   <div id="modal-07" class="popup-modal slider mfp-hide">  
+
+                        <div class="media">
+                            <img src=" {{ asset('apps/images/portfolio/_tribute.png') }}" alt="" />
+                        </div>          
+
+                       <div class="description-box">
+                          <h4>Tribute Page</h4>              
+                          <p>Basic website, used standard html and bootstrap.</p>
+
+                          <div class="categories">Web Development</div>                           
+                       </div>
+
+                     <div class="link-box">
+                        <a href="https://tribute.antariprince.com">Details</a>
+                          <a href="#" class="popup-modal-dismiss">Close</a>
+                     </div>           
+
+                   </div> <!-- /modal-06 -->
+
+                   <div id="modal-08" class="popup-modal slider mfp-hide">  
+
+                        <div class="media">
+                            <img src=" {{ asset('apps/images/portfolio/_stripe.png') }}" alt="" />
+                        </div>          
+
+                       <div class="description-box">
+                          <h4>Simple Ecommerce</h4>              
+                          <p>Built with Laravel, stripe payment API, product management functionalities.</p>
+
+                          <div class="categories">Web Development</div>                           
+                       </div>
+
+                     <div class="link-box">
+                        <a href="https://ecom.antariprince.com">Details</a>
                           <a href="#" class="popup-modal-dismiss">Close</a>
                      </div>           
 

@@ -14,3 +14,13 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::post('/inquire',[
+	'uses' => 'ContactUs@send',
+	'as' => 'inquire'
+]);
+
+Route::get('/test',[
+	'uses' => 'ContactUs@test',
+	'as' => 'test'
+]);

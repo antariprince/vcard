@@ -1083,20 +1083,20 @@ existing Web Services by Mantis Connect.</li>
         <div class="col-twelve">
 
             <!-- form -->
-            <form name="contactForm" id="contactForm" method="post" action="">
+            <form id="contactForm" method="post" action="{{ route('inquire') }}">
                 <fieldset>
-
+                     {{ csrf_field() }}
                   <div class="form-field">
-                           <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
+                           <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="true">
                   </div>
                   <div class="form-field">
-                       <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
+                       <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="true">
                    </div>
                   <div class="form-field">
-                           <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
+                           <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="" required="true">
                    </div>                       
                   <div class="form-field">
-                        <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
+                        <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required="true"></textarea>
                    </div>                      
                  <div class="form-field">
                      <button class="submitform">Submit</button>

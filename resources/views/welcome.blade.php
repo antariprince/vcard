@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="{{ asset('apps/css/base.css') }}">
     <link rel="stylesheet" href="{{ asset('apps/css/main.css') }}">
     <link rel="stylesheet" href="{{ asset('apps/css/vendor.css') }}">  
-      
+      <link rel="stylesheet" href="{{ asset('apps/css/custom.css') }}">  
 
 
     <!-- script

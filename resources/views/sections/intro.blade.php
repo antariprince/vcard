@@ -22,9 +22,9 @@
     </div> <!-- /intro-content --> 
 
     <ul class="intro-social">        
-         <li><a href="https://www.facebook.com/teejay.hidalgo"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="https://www.linkedin.com/in/teejay-hidalgo-79a96955/"><i class="fa fa-linkedin"></i></a></li>
-         <li><a href="https://www.instagram.com/tjaykun"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.facebook.com/teejay.hidalgo" target="_blank"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/teejay-hidalgo-79a96955/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+         <li><a href="https://www.instagram.com/tjaykun" target="_blank"><i class="fa fa-instagram"></i></a></li>
       </ul> <!-- /intro-social -->          
 
    </section>

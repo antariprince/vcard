@@ -1,6 +1,6 @@
 <div class="bgrid folio-item">
              <div class="item-wrap">
-                <img src=" {{ asset('apps/images/portfolio/mockup.png') }}" alt="Prestashop">
+                <img src=" {{ asset('apps/images/portfolio/mockup7.png') }}" alt="Prestashop">
                 <a href="#modal-01" class="overlay">                                    
                    <div class="folio-item-table">
                     <div class="folio-item-cell">
@@ -16,7 +16,7 @@
 
               <div class="bgrid folio-item">
                  <div class="item-wrap">
-                    <img src=" {{ asset('apps/images/portfolio/mockup2.png') }}"alt="Codeigniter">
+                    <img src=" {{ asset('apps/images/portfolio/mockup4.png') }}" alt="Codeigniter">
                     <a href="#modal-02" class="overlay">                                    
                        <div class="folio-item-table">
                         <div class="folio-item-cell">
@@ -38,7 +38,7 @@
 
     <div class="bgrid folio-item">
     <div class="item-wrap">
-    <img src=" {{ asset('apps/images/portfolio/mockup3.png') }}" alt="Shutterbug">
+    <img src=" {{ asset('apps/images/portfolio/mockup.png') }}" alt="Shutterbug">
     <a href="#modal-03" class="overlay">                                      
     <div class="folio-item-table">
     <div class="folio-item-cell">
@@ -54,7 +54,7 @@
 
     <div class="bgrid folio-item">
     <div class="item-wrap">
-    <img src=" {{ asset('apps/images/portfolio/mockup4.png') }}" alt="Laravel">
+    <img src=" {{ asset('apps/images/portfolio/mockup5.png') }}" alt="Laravel">
     <a href="#modal-04" class="overlay">                                       
        <div class="folio-item-table">
         <div class="folio-item-cell">
@@ -70,7 +70,7 @@
 
     <div class="bgrid folio-item">
     <div class="item-wrap">
-    <img src=" {{ asset('apps/images/portfolio/mockup5.png') }}" alt="Laravel">
+    <img src=" {{ asset('apps/images/portfolio/mockup2.png') }}" alt="Laravel">
     <a href="#modal-05" class="overlay">                                 
        <div class="folio-item-table">
         <div class="folio-item-cell">
@@ -90,7 +90,7 @@
 
     <div class="bgrid folio-item">
     <div class="item-wrap">
-    <img src=" {{ asset('apps/images/portfolio/mockup6.png') }}" alt="Wordpress">
+    <img src=" {{ asset('apps/images/portfolio/mockup3.png') }}" alt="Wordpress">
     <a href="#modal-06" class="overlay">
        <div class="folio-item-table">
         <div class="folio-item-cell">
@@ -106,8 +106,8 @@
 
     <div class="bgrid folio-item">
     <div class="item-wrap">
-    <img src=" {{ asset('apps/images/portfolio/mockup7.png') }}" alt="Laravel - Sample">
-    <a href="#modal-07" class="overlay">
+    <img src=" {{ asset('apps/images/portfolio/mockup6.png') }}" alt="Laravel - Sample">
+    <a href="#modal-08" class="overlay">
        <div class="folio-item-table">
         <div class="folio-item-cell">
             <h3 class="folio-title">Laravel - Sample</h3>                              
@@ -123,7 +123,7 @@
     <div class="bgrid folio-item">
     <div class="item-wrap">
     <img src=" {{ asset('apps/images/portfolio/mockup8.png') }}" alt="Laravel - Sample">
-    <a href="#modal-08" class="overlay">
+    <a href="#modal-07" class="overlay">
        <div class="folio-item-table">
         <div class="folio-item-cell">
             <h3 class="folio-title">Tribute Page</h3>                              

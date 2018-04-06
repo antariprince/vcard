@@ -6,7 +6,7 @@
         <h5>Contact</h5>
         <h1>I'd Love To Hear From You.</h1>
 
-        <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+        <p class="lead">Please fill up the form below with your inquiry and I will get back to you as soon as possible.</p>
 
     </div> 
     </div> <!-- /section-intro -->
@@ -17,7 +17,7 @@
 
         <!-- form -->
         <form id="contactForm" method="post" action="{{ route('inquire') }}">
-            <fieldset>
+            <fieldset style="border:none;!important">
                {{ csrf_field() }}
                <div class="form-field">
                  <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="true">

@@ -5,14 +5,15 @@
                 </div>          
 
                 <div class="description-box">
-                  <h4>Prestashop</h4>            
-                  <p>Basicl installation and setup.</p>
-
-                  <div class="categories">Web Development</div>                        
+                  <h4>Prestashop</h4> 
+                  <span class="label label-info">Installation and Setup</span>
+                  <span class="label label-info">Theme installation</span>
+                  <span class="label label-info">Initial product uploads</span>
+                     
               </div>
 
               <div class="link-box">
-                <a href="https://shop.antariprince.com">Details</a>
+                <a href="https://shop.antariprince.com" target="_blank">View Page</a>
                 <a href="#" class="popup-modal-dismiss">Close</a>
             </div>           
 
@@ -25,14 +26,16 @@
             </div>          
 
             <div class="description-box">
-              <h4>Codeigniter - Sample</h4>             
-              <p>Built with codeigniter, Web Scraping, Disqus, Web 2.0.</p>
-
-              <div class="categories">Web Development</div>                         
+              <h4>Codeigniter</h4> 
+                  <span class="label label-info">Fully Customized Website</span>
+                  <span class="label label-info">Disqus installation</span>
+                  <span class="label label-info">Web Scraping</span>
+                  <span class="label label-info">Web 2.0</span>  
+                  <span class="label label-info">Add, Edit, Delete Functions</span>                         
           </div>
 
           <div class="link-box">
-            <a href="https://booksforcast.com">Details</a>
+            <a href="https://booksforcast.com" target="_blank">View Page</a>
             <a href="#" class="popup-modal-dismiss">Close</a>
         </div>           
 
@@ -46,13 +49,15 @@
 
         <div class="description-box">
           <h4>Landing Page</h4>             
-          <p>Built with Laravel, Google Maps API, Mailchimp, Facebook login</p>
-
-          <div class="categories">Web Development</div>                         
+           <span class="label label-info">Laravel</span>
+            <span class="label label-info">Facebook Login API</span>
+            <span class="label label-info">Mailchimp Integration</span>   
+            <span class="label label-info">Mail</span>
+            <span class="label label-info">Google Maps API</span>                   
       </div>
 
       <div class="link-box">
-        <a href="https://openhouse.antariprince.com/">Details</a>
+        <a href="https://openhouse.antariprince.com/" target="_blank">View Page</a>
         <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 
@@ -65,14 +70,12 @@
     </div>          
 
     <div class="description-box">
-      <h4>Simple Todos App</h4>             
-      <p>Built with Laravel, simple add, edit, delete.</p>
-
-      <div class="categories">Web Development</div>                           
+      <span class="label label-info">Laravel</span>
+      <span class="label label-info">Add, Edit, Delete Functions</span>                            
     </div>
 
     <div class="link-box">
-    <a href="https://todos.antariprince.com">Details</a>
+    <a href="https://todos.antariprince.com" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 
@@ -86,13 +89,13 @@
 
     <div class="description-box">
     <h4>Simple Forum Page</h4>             
-    <p>Built with Laravel, Github Login API, Authentication.</p>
-
-    <div class="categories">Web Development</div>                        
+     <span class="label label-info">Laravel</span>
+            <span class="label label-info">GIT login</span>     
+            <span class="label label-info">Add, Edit, Delete Functions</span>          
     </div>
 
     <div class="link-box">
-    <a href="https://forum.antariprince.com">Details</a>
+    <a href="https://forum.antariprince.com" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 
@@ -106,13 +109,13 @@
 
     <div class="description-box">
     <h4>Dental Website</h4>              
-    <p>Built with wordpress with basic installation and setup.</p>
-
-    <div class="categories">Web Development</div>                           
+    <span class="label label-info">Wordpress Installation and Setup</span>
+    <span class="label label-info">Initial Content Population</span> 
+    <span class="label label-info">Initial Plugin Installation</span>                          
     </div>
 
     <div class="link-box">
-    <a href="https://jdc.booksforcast.com">Details</a>
+    <a href="https://jdc.booksforcast.com" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 
@@ -125,14 +128,14 @@
     </div>          
 
     <div class="description-box">
-    <h4>Tribute Page</h4>              
-    <p>Basic website, used standard html and bootstrap.</p>
+    <h4>Tribute Page</h4> 
+    <span class="label label-info">Basic website, used standard html and bootstrap.</span>
 
     <div class="categories">Web Development</div>                           
     </div>
 
     <div class="link-box">
-    <a href="https://tribute.antariprince.com">Details</a>
+    <a href="https://tribute.antariprince.com" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 
@@ -145,14 +148,17 @@
     </div>          
 
     <div class="description-box">
-    <h4>Simple Ecommerce</h4>              
-    <p>Built with Laravel, stripe payment API, product management functionalities.</p>
+    <h4>Simple Ecommerce</h4>  
+    <span class="label label-info">Laravel</span>
+    <span class="label label-info">Stripe Payment API</span> 
+    <span class="label label-info">Cart Plugint</span> 
+    <span class="label label-info">Add, Edit, Delete Functions</span>              
 
     <div class="categories">Web Development</div>                           
     </div>
 
     <div class="link-box">
-    <a href="https://ecom.antariprince.com">Details</a>
+    <a href="https://ecom.antariprince.com" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 

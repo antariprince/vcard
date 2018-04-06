@@ -183,20 +183,12 @@ devices utilizing both API provided by RIM (research in motion) and API by Manti
                     <div class="timeline-content">
                         <h4>Laravel, the Complete Guide with Real World Projects</h4>
                         <p>This course uses a project based approach for learning. It is also be filled with specific articles to read to clearly understand a concept better, and multiple explanations of all concepts taught. Built number of projects from simple to extra advanced, as listed below.</p>
-                        <ul>
-                                <li>Task APPLICATION</li>
-                                <li>COMPLETE BLOG</li>
-                                <li>COMPLETE FORUM</li>
-                                <li>E-COMMERCE WITH STRIPE</li>
-                          </ul>  
+                        
                     </div>
 
                     <div class="timeline-content">
                         <h4>JavaScript, Understanding the Weird Parts</h4>
                         <p>In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems. You will find clarity in the parts that others, even experienced coders, may find weird, odd, and at times incomprehensible. You'll learn the beauty and deceptive power of this language that is at the forefront of modern software development today.</p>
-                        <p>
-                            This course will cover such advanced concepts as objects and object literals, function expressions, prototypical inheritance, functional programming, scope chains, function constructors (plus new ES6 features), immediately invoked function expressions (IIFEs), call, apply, bind, and more.
-                        </p>
                     </div>
 
                 </div> <!-- /timeline-block -->

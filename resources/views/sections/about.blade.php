@@ -188,6 +188,7 @@
     <div class="row button-section">
         <div class="col-twelve">
             <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
+            <a href="{{ asset('apps/cv/download_cv.pdf') }}" title="Download CV" class="button button-primary" download>Download CV</a>
             <!-- <a href="#" title="Download CV" class="button button-primary">Download CV</a> -->
         </div>          
     </div>

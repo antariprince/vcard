@@ -139,7 +139,10 @@
 
                 <ul class="skill-bars">
                     
-
+                  <li>
+                    <div class="progress percent100"><span>100%</span></div>
+                    <strong>Google Search</strong>
+                   </li>
 
                    <li>
                     <div class="progress percent50"><span>55%</span></div>
@@ -175,10 +178,7 @@
                     <strong>Web Scraping</strong>
                    </li>
 
-                    <li>
-                    <div class="progress percent60"><span>60%</span></div>
-                    <strong>Photoshop</strong>
-                   </li>
+                    
                 </ul> <!-- /skill-bars -->      
 
         </div>

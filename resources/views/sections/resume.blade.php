@@ -48,7 +48,6 @@
                                 <li>Creating, maintaining, and enhancing databases</li>
                                 <li>Testing, debugging, diagnosing and correcting errors and bugs in an application</li>
                                 <li>Managing and working with a small team to ensure that the project specification is met and is delivered in a timely manner</li>
-                                <li>Communicating and coordinating with project managers and clients during the development lifecycle for concerns requiring technical knowledge</li>
                                 <li>Reviewing current system or process and presenting ideas for improvements</li>
                                 <li>Researching and integrating APIs, plugins and extensions</li>
                                 <li>Researching and identifying technology requirements, proposing process and solutions</li>

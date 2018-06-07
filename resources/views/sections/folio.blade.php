@@ -135,3 +135,35 @@
     </a>
     </div>
     </div>
+
+    <div class="bgrid folio-item">
+    <div class="item-wrap">
+    <img src=" {{ asset('apps/images/portfolio/mockup9.png') }}" alt="AngularJS - Sample">
+    <a href="#modal-09" class="overlay">
+       <div class="folio-item-table">
+        <div class="folio-item-cell">
+            <h3 class="folio-title">AngularJS - Sample</h3>                              
+            <span class="folio-types">
+              Web Development
+          </span>                   
+      </div>                           
+    </div>                    
+    </a>
+    </div>
+    </div> <!-- /folio-item -->   
+
+    <div class="bgrid folio-item">
+    <div class="item-wrap">
+    <img src=" {{ asset('apps/images/portfolio/mockup10.png') }}" alt="Laravel - Sample">
+    <a href="#modal-10" class="overlay">
+       <div class="folio-item-table">
+        <div class="folio-item-cell">
+            <h3 class="folio-title">Laravel - WebScrape Online Tool</h3>                              
+            <span class="folio-types">
+              Web Development
+          </span>                   
+      </div>                           
+    </div>                    
+    </a>
+    </div>
+    </div>

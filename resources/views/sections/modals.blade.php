@@ -163,3 +163,50 @@
     </div>           
 
     </div> 
+
+    <div id="modal-10" class="popup-modal slider mfp-hide">  
+
+    <div class="media">
+    <img src=" {{ asset('apps/images/portfolio/scrape.png') }}" alt="" />
+    </div>          
+
+    <div class="description-box">
+    <h4>Web Scraper Online Tool</h4> 
+    <span class="label label-info">CMS</span>
+    <span class="label label-info">Admin LTE integration</span>
+    <span class="label label-info">Ddynamic fields</span>
+    <span class="label label-info">User login and registration</span>
+    <span class="label label-info">User restricted data access</span>
+
+    <div class="categories">Web Development</div>                           
+    </div>
+
+    <div class="link-box">
+    <a href="https://tribute.antariprince.com" target="_blank">View Page</a>
+    <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>           
+
+    </div> <!-- /modal-06 -->
+
+    <div id="modal-09" class="popup-modal slider mfp-hide">  
+
+    <div class="media">
+    <img src=" {{ asset('apps/images/portfolio/weather.png') }}" alt="" />
+    </div>          
+
+    <div class="description-box">
+    <h4>Weather App</h4>  
+    <span class="label label-info">Single Page Application</span>
+    <span class="label label-info">Random Home Background</span> 
+    <span class="label label-info">Goelocation API for find my location</span> 
+    <span class="label label-info">openweathermap API Usage</span>              
+
+    <div class="categories">Web Development</div>                           
+    </div>
+
+    <div class="link-box">
+    <a href="https://ecom.antariprince.com" target="_blank">View Page</a>
+    <a href="#" class="popup-modal-dismiss">Close</a>
+    </div>           
+
+    </div> 

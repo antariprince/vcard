@@ -182,7 +182,7 @@
     </div>
 
     <div class="link-box">
-    <a href="https://tribute.antariprince.com" target="_blank">View Page</a>
+    <a href="https://scrape.antariprince.com" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 
@@ -205,7 +205,7 @@
     </div>
 
     <div class="link-box">
-    <a href="https://ecom.antariprince.com" target="_blank">View Page</a>
+    <a href="https://weather.antariprince.com/index" target="_blank">View Page</a>
     <a href="#" class="popup-modal-dismiss">Close</a>
     </div>           
 

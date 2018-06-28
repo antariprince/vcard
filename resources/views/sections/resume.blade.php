@@ -181,13 +181,18 @@ devices utilizing both API provided by RIM (research in motion) and API by Manti
 
                     <div class="timeline-content">
                         <h4>Laravel, the Complete Guide with Real World Projects</h4>
-                        <p>This course uses a project based approach for learning. It is also be filled with specific articles to read to clearly understand a concept better, and multiple explanations of all concepts taught. Built number of projects from simple to extra advanced, as listed below.</p>
+                        <p>"This course uses a project based approach for learning. It is also be filled with specific articles to read to clearly understand a concept better, and multiple explanations of all concepts taught. Built number of projects from simple to extra advanced, as listed below."</p>
                         
                     </div>
 
                     <div class="timeline-content">
                         <h4>JavaScript, Understanding the Weird Parts</h4>
-                        <p>In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems. You will find clarity in the parts that others, even experienced coders, may find weird, odd, and at times incomprehensible. You'll learn the beauty and deceptive power of this language that is at the forefront of modern software development today.</p>
+                        <p>"In this course you will gain a deep understanding of Javascript, learn how Javascript works under the hood, and how that knowledge helps you avoid common pitfalls and drastically improve your ability to debug problems. You will find clarity in the parts that others, even experienced coders, may find weird, odd, and at times incomprehensible. You'll learn the beauty and deceptive power of this language that is at the forefront of modern software development today."</p>
+                    </div>
+
+                    <div class="timeline-content">
+                        <h4>Learn and Understand AngularJS</h4>
+                        <p>"This course will get you up and running quickly, and teach you the core knowledge you need to deeply understand and build AngularJS applications - and we'll build a single page application along the way. We'll design custom services, build custom directives, understand two-way binding, design a weather forecast app as a single page application, and lots more. Both starter and finished source code is provided as we go."</p>
                     </div>
 
                 </div> <!-- /timeline-block -->
